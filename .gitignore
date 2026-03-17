@@ -1,7 +1,7 @@
 *.pyc
 __pycache__/
-venv/
-api_venv/
+.AINIDSystem/
+.gitconfig
 *.keras
 *.pkl
 *.csv
