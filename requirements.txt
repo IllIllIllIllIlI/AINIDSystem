@@ -1,0 +1,7 @@
+flask 
+tensorflow==2.16.1
+scikit-learn
+pandas
+numpy
+joblib
+protobuf==3.20.3
